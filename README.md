@@ -11,5 +11,5 @@
 3. 启动client.exe
 4. 在客户端输入“collect”、“q"等命令与服务端进行通信
 
-![](images/example.jpg)
+![](WindowsSocketDemo/images/example.jpg)
 
